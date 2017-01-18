@@ -3,4 +3,4 @@ SaveYourSeeds is a hacktivism project started by Andrew Kramer and has been brou
 
 Sponsered by Maxwell Data Processing and Solutions
 
-seeds.rt6.us | SaveYourSeeds.MaxwellDPS.com
+<a href="seeds.rt6.us">seeds.rt6.us</a> | <a href="SaveYourSeeds.MaxwellDPS.com">SaveYourSeeds.MaxwellDPS.com</a>
